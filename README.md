@@ -38,6 +38,6 @@ folder.
 
 ^ Real images from CIFAR10 dataset for comparison.
 
-![img.png](img/TSNE_example.png)
+<img alt="TSNE visualisation" src="img/TSNE_example.png" width="300">
 
 ^ Visualisation of latent representations of the VAE model (MNIST dataset).
